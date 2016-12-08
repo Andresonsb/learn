@@ -1,2 +1,6 @@
 # learn
-Começar a estudar e aprender linguagens de programação
+
+
+Olá Mundo ;)
+
+Estou aqui, criando uma conta na GitHub, e lendo o manual para entender como funciona.
